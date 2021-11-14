@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="dialog_closing_app">Are you sure you want close app?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+    <string name="search_text">Search</string>
+    <string name="city_text">City or Postal Code</string>
+
+    <string name="city_and_country_code">%1$s, %2$s</string>
+
+    <string name="temp">Temperature: %1$s°C</string>
+    <string name="temp_short">%1$s°C</string>
+    <string name="feels_like">Feels like: %1$s°C</string>
+    <string name="temp_min">Minimum today: %1$s°C</string>
+    <string name="temp_max">Maximum today: %1$s°C</string>
+    <string name="pressure">Pressure: %1$s hPa</string>
+    <string name="humidity">Humidity: %1$s %%</string>
+    <string name="weather_icon">weather icon</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDYNMa4jEaE6vjUIkC8Ae5OOL-5fciWnj0</string>
+</resources>
